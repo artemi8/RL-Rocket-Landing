@@ -1,0 +1,8 @@
+#Models
+models/
+
+#Documents
+documents/
+
+#Temporary Files
+*.ipynb_checkpoints
