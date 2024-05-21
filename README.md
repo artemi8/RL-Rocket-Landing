@@ -10,6 +10,7 @@ This repository showcases the use of the `pyflyt` module's rocket landing enviro
 - [Simulation & Inference with Trained Model](#inference-with-trained-model)
 - [Screenshots](#screenshots)
 - [Video Demonstration](#video-demonstration)
+- [Training Metrics](#training-Metrics)
 - [References](#references)
 
 ## Introduction
@@ -75,7 +76,9 @@ Watch the rocket landing demonstration:
 
 https://github.com/artemi8/RL-Rocket-Landing/assets/41601863/fbec0d1a-fc02-46e2-9057-6abdae52bf72
 
+## Training Metrics
 
+Go to training [metrics](sample_runs/README.md).
 
 ## References
 
