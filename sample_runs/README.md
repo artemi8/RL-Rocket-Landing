@@ -6,7 +6,7 @@ This directory contains the Training metrics for TQC algorithm.
 
 You can view the detailed project report in the PDF file below:
 
-[View Rocket Landing Report](TQC Best performance model metrics.pdf)
+[TQC Best performance model metrics.pdf](https://github.com/artemi8/RL-Rocket-Landing/files/15390849/TQC.Best.performance.model.metrics.pdf)
 
 ## Back to Main Repository
 
