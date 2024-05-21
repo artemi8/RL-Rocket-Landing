@@ -73,8 +73,8 @@ To test the best performing TQC model, follow the instructions provided in the J
 
 Watch the rocket landing demonstration: 
 
-<!-- ![Rocket Landing Video)](media/TQC_rocket_landing.mp4) -->
-[![Rocket Landing Video](media/TQC_rocket_landing.mp4)](media/TQC_rocket_landing.mp4)
+https://github.com/artemi8/RL-Rocket-Landing/assets/41601863/fbec0d1a-fc02-46e2-9057-6abdae52bf72
+
 
 
 ## References
