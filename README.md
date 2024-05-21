@@ -7,7 +7,7 @@ This repository showcases the use of the `pyflyt` module's rocket landing enviro
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Simulation & Inference with Trained Model](#simulation-&-inference-with-trained-model)
+- [Simulation & Inference with Trained Model](#simulation-and-inference-with-trained-model)
 - [Screenshots](#screenshots)
 - [Video Demonstration](#video-demonstration)
 - [Training Metrics](#training-Metrics)
