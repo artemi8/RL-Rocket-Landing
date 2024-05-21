@@ -3,6 +3,7 @@ models/
 
 #Documents
 documents/
+literature/
 
 #Temporary Files
 *.ipynb_checkpoints

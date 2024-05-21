@@ -2276,6 +2276,20 @@ pygments = ">=2.13.0,<3.0.0"
 jupyter = ["ipywidgets (>=7.5.1,<9)"]
 
 [[package]]
+name = "sb3-contrib"
+version = "2.3.0"
+description = "Contrib package of Stable Baselines3, experimental code."
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "sb3_contrib-2.3.0-py3-none-any.whl", hash = "sha256:79dadda884f2242bbab11fdb06ccf00eeead2937f7ed09ba577f803f2e52c8e1"},
+    {file = "sb3_contrib-2.3.0.tar.gz", hash = "sha256:9755ef9efa08e43afb9c4e79564ed594eb8bc497256920403a7e269a72216221"},
+]
+
+[package.dependencies]
+stable-baselines3 = ">=2.3.0,<3.0"
+
+[[package]]
 name = "scipy"
 version = "1.13.0"
 description = "Fundamental algorithms for scientific computing in Python"
@@ -2717,4 +2731,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.11"
-content-hash = "e4f51ebdb65cb40e1be6a60efbb7a10e74aa7997a9daecdc0920f2fdca862120"
+content-hash = "2daee48637a73ceeca89efffdab928beff408f405e47cff7ad1f68c6c8a1fb1c"

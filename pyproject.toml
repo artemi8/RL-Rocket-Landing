@@ -12,6 +12,8 @@ numpy = "^1.26.4"
 wheel = "^0.43.0"
 pyflyt = "^0.19.0"
 stable-baselines3 = {extras = ["extra"], version = "^2.3.1"}
+tensorboard = "^2.16.2"
+sb3-contrib = "^2.3.0"
 
 
 [tool.poetry.group.dev.dependencies]
