@@ -1,4 +1,4 @@
-# Rocket Landing Environment with TQC
+# Rocket Landing using Reinforcement Learning
 
 This repository showcases the use of the `pyflyt` module's rocket landing environment and various reinforcement learning (RL) algorithms to solve it. The TQC (Truncated Quantile Critics) algorithm from Stable Baselines has shown the best performance.
 
