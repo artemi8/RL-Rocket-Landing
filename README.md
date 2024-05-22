@@ -82,6 +82,6 @@ Go to training [metrics](sample_runs/README.md).
 
 ## References
 
-- [PyFlyt Documentation](https://pyflyt.readthedocs.io/)
+- [PyFlyt Documentation](https://taijunjet.com/PyFlyt/documentation.html)
 - [Stable Baselines3 Documentation](https://stable-baselines3.readthedocs.io/)
 - [Poetry Documentation](https://python-poetry.org/docs/)
